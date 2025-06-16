@@ -2,7 +2,7 @@
 
 A **full-featured e-commerce platform** inspired by Amazon, built with modern web technologies. This clone includes **product listings**, **cart functionality**, and a **responsive design** for optimal experience across all devices.
 
-![Amazon Clone Preview](https://droyd-amazon.netlify.app/)
+[Amazon preview](https://droyd-amazon.netlify.app/)
 
 ---
 
